@@ -1,1 +1,3 @@
--Trabalho da Faculdade na matéria de Desenvolvimento Web onde era necssário criar um projeto maven que habilite e execute uma operação na base de dados MySql.
+### Projeto Maven - Faculdade
+
+Este projeto consiste em uma aplicação Java que se conecta a um banco de dados MySQL e realiza uma operação de inserção de dados nele.
